@@ -1,6 +1,6 @@
 # Bellman-Ford
 
-ellman-Ford algorithm is used to find the shortest paths from a single source vertex to all other vertices in a weighted graph. It can handle negative edge weights and detect negative cycles.
+Bellman-Ford algorithm is used to find the shortest paths from a single source vertex to all other vertices in a weighted graph. It can handle negative edge weights and detect negative cycles.
 
 Here is an example of the input file:
 3                        // number of router nodes
