@@ -1,7 +1,7 @@
 # Bellman-Ford
 
-bellman ford algorithm for network routing.
-All the connections through UDP sockets.
+ellman-Ford algorithm is used to find the shortest paths from a single source vertex to all other vertices in a weighted graph. It can handle negative edge weights and detect negative cycles.
+
 Here is an example of the input file:
 3                        // number of router nodes
 Router1 127.0.0.1 7000   // name,IP,Port
